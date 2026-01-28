@@ -8,6 +8,8 @@
 [![Hugging Face Models(7B)](https://img.shields.io/badge/%F0%9F%A4%97%20Models-daVinci--origin--7B-blue)](https://huggingface.co/GAIR/daVinci-origin-7B)
 [![Hugging Face Eval](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-Darwin--Science--Eval-orange)](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)
 
+**🚀 Paper, datasets, models, and code are coming soon! Stay tuned for updates.**
+
 </div>
 
 ## 📖 Overview
