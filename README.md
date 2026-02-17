@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/📄_Paper-PDF-b31b1b.svg)](report.pdf)
+[![Paper](https://img.shields.io/badge/📄_Paper-PDF-b31b1b.svg)](https://arxiv.org/pdf/2602.07824)
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Darwin--Science-yellow)](https://huggingface.co/datasets/GAIR/Darwin-Science)
 [![Hugging Face Models(3B)](https://img.shields.io/badge/%F0%9F%A4%97%20Models-daVinci--origin--3B-blue)](https://huggingface.co/GAIR/daVinci-origin-3B)
 [![Hugging Face Models(7B)](https://img.shields.io/badge/%F0%9F%A4%97%20Models-daVinci--origin--7B-blue)](https://huggingface.co/GAIR/daVinci-origin-7B)
@@ -98,6 +98,10 @@ Through our controlled experiments, we established the following laws for scient
 If you use Data Darwinism, the dataset, or the baselines in your research, please cite:
 
 ```bibtex
-
-
+@article{qin2026data,
+  title={Data Darwinism Part I: Unlocking the Value of Scientific Data for Pre-training},
+  author={Qin, Yiwei and Huang, Zhen and Mi, Tiantian and Si, Weiye and Zhou, Chenyang and Guo, Qipeng and Feng, Siyuan and Liu, Pengfei},
+  journal={arXiv preprint arXiv:2602.07824},
+  year={2026}
+}
 ```
