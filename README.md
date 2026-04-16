@@ -8,9 +8,22 @@
 [![Hugging Face Models(7B)](https://img.shields.io/badge/%F0%9F%A4%97%20Models-daVinci--origin--7B-blue)](https://huggingface.co/GAIR/daVinci-origin-7B)
 [![Hugging Face Eval](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-Darwin--Science--Eval-orange)](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)
 
-**🚀 Datasets, models, and code are coming soon! Stay tuned for updates.**
-
 </div>
+
+---
+
+## 📝 A Note on Naming
+
+> Across different versions of the paper, the datasets and models have appeared under slightly different names. For clarity, the following table lists the naming used in this repository alongside alternative names that may appear in certain versions of the paper. These all refer to the same artifacts.
+
+| 📦 This repo / Hugging Face | 📄 Alternative name (in some paper versions) |
+| :--- | :--- |
+| `Darwin-Science` (corpus) | `SciPedia` |
+| `Darwin-Science-Eval` (benchmark) | `SciPedia-Eval` |
+| `daVinci-origin-3B` (model) | `S3B` |
+| `daVinci-origin-7B` (model) | `S7B` |
+
+---
 
 ## 📖 Overview
 
